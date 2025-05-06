@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  width: 360px;
+  font-family: Inter, sans-serif;
+  height: 379px;
+  top: 69px;
+  left: 76px;
+  background: #0b2434;
+}
+
+main {
+  width: 320;
+  height: 320;
+  top: 30px;
+  left: 20px;
+  border-radius: 10px;
+  background: #f5f5f5;
+}
